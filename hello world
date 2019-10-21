@@ -1,0 +1,5 @@
+h="hello world"
+y="my name is saumya patel"
+print(h,y)
+p=h+y
+print(p)

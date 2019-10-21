@@ -9,3 +9,8 @@ l=" my name is prakhar saxena"
 print(i,l)
 a=i+l
 print(a)
+
+x="My name is"
+y=input("Your Name HERE")
+y.upper()
+print(x,y)

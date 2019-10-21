@@ -3,3 +3,9 @@ y="my name is saumya patel"
 print(h,y)
 p=h+y
 print(p)
+
+i= "hello guys"
+l=" my name is prakhar saxena"
+print(i,l)
+a=i+l
+print(a)
